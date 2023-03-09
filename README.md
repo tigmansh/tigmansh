@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **gargtigmanshu@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAFcB6c1emI/FhxSdHv_xfYijGygDpr_mg/edit?utm_content=DAFcB6c1emI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFcB6c1emI/FhxSdHv_xfYijGygDpr_mg/edit?utm_content=DAFcB6c1emI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 📄 Know about my experiences http://surl.li/fiecv
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
