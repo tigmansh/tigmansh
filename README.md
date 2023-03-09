@@ -3,16 +3,13 @@
 <h3 align="center">A Passionate Node Backend Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tigmanshu2003&label=Profile%20views&color=0e75b6&style=flat" alt="tigmanshu2003" /> </p>
-
-
 - 🌱 I’m currently learning **Node.js, MongoDB**
 
 - 💬 Ask me about **Node**
 
 - 📫 How to reach me **gargtigmanshu@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAFcB6c1emI/FhxSdHv_xfYijGygDpr_mg/edit?utm_content=DAFcB6c1emI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFcB6c1emI/FhxSdHv_xfYijGygDpr_mg/edit?utm_content=DAFcB6c1emI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 📄 Know about my experiences [http://surl.li/fiecv](http://surl.li/fiecv)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
