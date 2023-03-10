@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **gargtigmanshu@gmail.com**
 
-- 📄 Know about my experiences http://surl.li/fiecv
+<!-- - 📄 Know about my experiences http://surl.li/fiecv -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
