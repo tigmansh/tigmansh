@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **gargtigmanshu@gmail.com**
 
-<!-- - 📄 Know about my experiences http://surl.li/fiecv -->
+- 📄 My Resume <a href="https://drive.google.com/file/d/1WpgDFD5117vI0FJqaOSq8Amw-Cx8R5sd/view?usp=share_link">Click Here</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
