@@ -12,6 +12,8 @@
 
 - 📄 My Resume <a href="https://drive.google.com/file/d/1WpgDFD5117vI0FJqaOSq8Amw-Cx8R5sd/view?usp=share_link">Click Here</a>
 
+- 📄 My Portfolio <a href="https://tigmansh.github.io/">Click Here</a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/tigmanshu-garg-371128257/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tigmanshu-garg" height="30" width="40" /></a>
