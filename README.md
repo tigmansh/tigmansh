@@ -1,4 +1,4 @@
-<a href="https://nodejs.org/en"><img  src="https://www.trio.dev/hubfs/Imported_Blog_Media/0cda999fb6a33a6de22081506a101285-2-1.jpg" /></a>
+<a href="https://nodejs.org/en"><img  src="https://images.squarespace-cdn.com/content/v1/58d20c79725e25b221549193/1608020490393-RBHFYWZAECA6UCJMX7FK/Integrate+CI+CD.gif?format=1000w" /></a>
 <h1 align="center">Hi 👋, I'm Tigmanshu Garg</h1>
 <h3 align="center">A Passionate Node Backend Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tigmansh&label=Profile%20views&color=0e75b6&style=flat" alt="tigmansh" /> </p>
@@ -26,7 +26,6 @@
 <a href="https://redis.io/" target="_blank" rel="noreferrer"> <img src="https://is3-ssl.mzstatic.com/image/thumb/Purple124/v4/17/cd/a2/17cda2a0-b641-c3d0-3d22-141704a40eef/Icon.png/1200x630bb.png" alt="redis" width="40" height="40"/> </a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tigmansh&show_icons=true&locale=en" alt="tigmansh" /></p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tigmansh" alt="tigmansh" /></a> </p>
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=tigmansh&show_icons=true&locale=en" alt="tigmansh" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tigmansh&" alt="tigmansh" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tigmansh" alt="tigmansh" /></a> </p>
